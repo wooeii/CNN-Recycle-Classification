@@ -1,7 +1,7 @@
 # ♻️ CNN-Recycle-Classification (재활용품 이진 분류 모델)  
   
 > 🏆 **2023 한국정보기술학회 하계종합학술대회 금상 수상작** <br>  
-> **상세 트러블슈팅 및 데이터 전처리 과정은 [Notion 포트폴리오 링크(여기에 링크 삽입)]에서 확인하실 수 있습니다.**  
+> **상세 트러블슈팅 및 데이터 전처리 과정은 [https://www.notion.so/2e697446a87a806fb109c8b51f35af2c?source=copy_link]에서 확인하실 수 있습니다.**  
   
 ## 1. Project Overview  
 COVID-19 이후 급증한 무분별한 쓰레기 배출 문제를 해결하기 위해, 폐기물 이미지를 CNN 알고리즘을 통해 **'재활용품(Recyclable)'**과 **'일반 쓰레기(Trash)'**로 자동 분류해 주는 이진 분류(Binary Classification) AI 모델입니다.  
